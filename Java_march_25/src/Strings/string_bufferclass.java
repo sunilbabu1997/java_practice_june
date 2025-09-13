@@ -17,7 +17,7 @@ public class string_bufferclass {
         name1.insert(6, " "); // Insert space after "Anshul"
         System.out.println("After insert(): " + name1);
 
-        name1.replace(0, 6, "Mr."); // Replace "Anshul" with "Mr."
+        name1.replace(0, 7, "Mr."); // Replace "Anshul" with "Mr."
         System.out.println("After replace(): " + name1);
 
         name1.delete(0, 4); // Delete "Mr. "

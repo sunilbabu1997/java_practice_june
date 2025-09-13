@@ -1,5 +1,5 @@
 package Interface;
 
-public interface Aspire {
-
+public interface Aspire extends Laptop {
+ 
 }

@@ -5,7 +5,7 @@ public class Lenovo implements Laptop{
 	@Override
 	public void copy() {
 		// TODO Auto-generated method stub
-	
+		System.out.println("cut");
 	}
 
 	@Override
@@ -25,6 +25,30 @@ public class Lenovo implements Laptop{
 		// TODO Auto-generated method stub
 		
 	}
+
+//	@Override
+//	public void copy() {
+//		// TODO Auto-generated method stub
+//	
+//	}
+//
+//	@Override
+//	public void cut() {
+//		// TODO Auto-generated method stub
+//		
+//	}
+//
+//	@Override
+//	public void paste() {
+//		// TODO Auto-generated method stub
+//		
+//	}
+//
+//	@Override
+//	public void keyboard() {
+//		// TODO Auto-generated method stub
+//		
+//	}
 	
 //	@Override
 //	public void copy() {

@@ -6,10 +6,11 @@ public class for_loop {
 		// TODO Auto-generated method stub
 
 		// I have to print 1 to 10 values
-		for (int i = 0; i <=11; i++) {
+		for (int i = 1; i <=10; i++) {
 
 			System.out.println(i);
 		}
+		
 
 	}
 

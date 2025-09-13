@@ -14,8 +14,15 @@ public class abstarct_class1 extends abstrct_class {
 	@Override
 	public void bodycolor() {
 		// TODO Auto-generated method stub
-		System.out.println("red colour on the boby");
+		System.out.println("red colour");
 		
 	}
+
+//	@Override
+//	public void bodycolor() {
+//		// TODO Auto-generated method stub
+//		System.out.println("red colour on the boby");
+//		
+//	}
 
 }

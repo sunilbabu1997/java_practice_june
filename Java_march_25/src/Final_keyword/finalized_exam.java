@@ -11,10 +11,11 @@ public class finalized_exam {
 	public static void main(String[] args) {
 		finalized_exam obj = new finalized_exam();
 //		obj.finalize();
+//		Makes the object eligible for GC, but not guaranteed.
 		obj = null;
 
 		System.gc(); 
-		obj.finalize();
+//		obj.finalize();
 		// Suggests garbage collection
 	}
 }

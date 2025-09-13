@@ -5,7 +5,7 @@ public class switch_statement {
 	public static void main(String[] args) {
 		
 		// Declaring a variable for switch expression
-		int number = 10;
+		int number = 20;
 		// Switch expression
 		switch (number) {
 		// Case statements

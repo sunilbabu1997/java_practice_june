@@ -4,10 +4,11 @@ public class single_child extends single_parent{
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		single_child obj = new single_child();
+		single_parent obj = new single_child();
 		
 		obj.m1();
 		obj.m2();
+//		obj.m3();
 
 	}
 

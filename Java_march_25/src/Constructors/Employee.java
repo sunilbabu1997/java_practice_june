@@ -21,7 +21,7 @@ public class Employee {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		Employee e1 = new Employee("1101", "venki", "Envoy", 50000);
+		Employee e1 = new Employee("1101", "sunil", "Envoy", 50000);
 		e1.task1();
 	}
 }

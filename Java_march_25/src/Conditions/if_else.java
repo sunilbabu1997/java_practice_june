@@ -6,7 +6,8 @@ public class if_else {
 		// TODO Auto-generated method stub
 		
 		//if candidate age is more than 18 allow him to apply
-		int cand_age = 17;
+		int cand_age = 20;
+		
 		if(cand_age > 18) {
 			System.out.println("Allow him to apply");
 		}
